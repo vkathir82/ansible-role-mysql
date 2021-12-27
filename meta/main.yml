@@ -1,7 +1,7 @@
 galaxy_info:
-  author: Kathiravan Velusamy
+  author: <Kathiravan Velusamy>
   description: Install MySQL in the Debian linux 
-  company: S
+  company: Self
 
   # If the issue tracker for your role is not on github, uncomment the
   # next line and provide a value
